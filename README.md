@@ -1,3 +1,19 @@
+Created a python module to perform statistical calculations. For each calculation there is atleast one test to check for the correct value and another test to check for invalid input. Invalid input would throw an exception with a description of the problem.
+
+See below for calculations that can be performed.
+
+## **Program calculates the following:**
+
+
+### **Arthematic Calculation**
+    
+- [X] Addition
+- [X] Subtraction
+- [X] Multiplication
+- [X] Division
+- [X] Square
+- [x] Square Root
+
 ## **Statistical Calculation** 
 
 - [X] Population Mean
