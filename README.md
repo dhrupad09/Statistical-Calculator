@@ -1,6 +1,6 @@
 # **MiniProject2**
 
-# Group Member
+# Group Members
 
 - Dhrupad Solanki
 - Rohit Kabra
