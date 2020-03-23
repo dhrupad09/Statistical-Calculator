@@ -1,9 +1,9 @@
 # **MiniProject2**
 
 # Group Member
-=> Dhrupad Solanki
-=> Rohit Kabra
-=> Brij Thota
+=>Dhrupad Solanki
+=>Rohit Kabra
+=>Brij Thota
 
 ![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
 
