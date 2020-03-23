@@ -1,7 +1,7 @@
 # **MiniProject2**
 
 # Group Member
-=>Dhrupad Solanki
+- =>Dhrupad Solanki
 =>Rohit Kabra
 =>Brij Thota
 
