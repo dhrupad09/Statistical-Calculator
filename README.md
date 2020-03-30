@@ -1,12 +1,12 @@
 # **MiniProject2**
 
+![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
+
 ## Contributors
 
 - Dhrupad Solanki
 - Rohit Kabra
 - Brij Thota
-
-![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
 
 # Statistical Calculator
 
