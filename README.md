@@ -3,9 +3,19 @@
 
 # Statistical Calculator
 
-Created a python module to perform statistical calculations. For each calculation there is atleast one test to check for the correct value and another test to check for invalid input. Invalid input would throw an exception with a description of the problem.
+Created a python module to perform statistical calculations. For each calculation there is at least one test to check for the correct value and another test to check for invalid input.  Invalid input throws an exception with a description of the problem.
 
-See below for calculations that can be performed.
+
+
+## Contributors:
+### Rohit Kabra
+### Dhrupad Solanki
+### Brij Thota
+
+
+
+
+#### See below for calculations that can be performed.
 
 ## **Program calculates the following:**
 
