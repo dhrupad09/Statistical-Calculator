@@ -1,4 +1,4 @@
-# **MiniProject2**
+# **MiniProject2** ![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
 
 ![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
 
