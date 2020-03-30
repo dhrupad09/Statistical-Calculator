@@ -1,17 +1,20 @@
 # **MiniProject2** ![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
 
-# Group Members
+![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
+
+## Contributors
 
 - Dhrupad Solanki
 - Rohit Kabra
 - Brij Thota
 
-
 # Statistical Calculator
 
-Created a python module to perform statistical calculations. For each calculation there is atleast one test to check for the correct value and another test to check for invalid input. Invalid input would throw an exception with a description of the problem.
+Created a python module to perform statistical calculations. For each calculation there is at least one test to check for the correct value and another test to check for invalid input.  Invalid input throws an exception with a description of the problem.
 
-See below for calculations that can be performed.
+
+
+#### See below for calculations that can be performed.
 
 ## **Program calculates the following:**
 
