@@ -1,6 +1,6 @@
 # **MiniProject2**
 
-# Group Members
+## Contributors
 
 - Dhrupad Solanki
 - Rohit Kabra
@@ -11,14 +11,6 @@
 # Statistical Calculator
 
 Created a python module to perform statistical calculations. For each calculation there is at least one test to check for the correct value and another test to check for invalid input.  Invalid input throws an exception with a description of the problem.
-
-
-
-## Contributors:
-### Rohit Kabra
-### Dhrupad Solanki
-### Brij Thota
-
 
 
 
